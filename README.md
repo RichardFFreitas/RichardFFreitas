@@ -4,8 +4,7 @@
  - ❤️‍🔥 Apaixonado por programação e computação
 
 <div>
- <img src="https://github-readme-stats.vercel.app/api?username=RichardFFreitas&theme=dark">
- <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardFFreitas&theme=dark">
+
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
