@@ -1,6 +1,6 @@
 ### Olá! Meu nome é Richard Freitas :D
  - 💻☕Desenvolvedor Full Stack Python 
- - 📚 Estudando JS, React, VueJS
+ - 📚 Estudando SQL, Estrutura de Dados, Docker e Django
  - ❤️‍🔥 Apaixonado por programação e computação
 
 <div>
